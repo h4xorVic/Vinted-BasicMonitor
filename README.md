@@ -1,2 +1,2 @@
 # Vinted-BasicMonitor
-C'est un monitor,grace l'aide d'$un wrapper pour l'api de vinted et des wwebhooks discord 
+C'est un monitor,grace crée a l'aide d'un module wrapper pour l'api de vinted et de webhook discord .
