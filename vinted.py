@@ -8,7 +8,7 @@ def main():
     a = 0
     b = int(input("How many items you want : "))
     Param = input("Url of your research : ")
-    url = "https://discord.com/api/webhooks/971507252060110878/tgrZYdCZXOd0DMGpQ96KGoQEm4u6jsxETeIZyAsiYTFSCykVM-4yr9c_z6zHEA4k3_L2" # Url de ton webhook 
+    url = "" # Url de ton webhook 
 
     vinted = Vinted("fr")
     items = vinted.items.search(Param, b, 5)
