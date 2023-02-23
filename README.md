@@ -11,3 +11,6 @@ pyVinted : https://pypi.org/project/pyVinted/
 
 3/Modifiez votre webhook dans le code
 
+4/Donnez un nombre d'items voulue 
+
+5/Donnez l'url de votre recherche vinted
