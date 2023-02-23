@@ -9,7 +9,7 @@ pyVinted : https://pypi.org/project/pyVinted/
 
 2/Lancez module.bat
 
-3/Modifiez votre webhook dans le code
+3/Modifiez votre webhook dans le code (https://zestedesavoir.com/tutoriels/3064/faire-un-bot-discord-simple-avec-les-webhooks/#:~:text=Obtenir%20l'URL%20du%20webhook&text=Pour%20cela%2C%20cliquez%20sur%20le,nom%20du%20serveur%20est%20entour%C3%A9.&text=Une%20fois%20cela%20fait%2C%20s%C3%A9lectionnez,sur%20%C2%AB%20Cr%C3%A9er%20un%20webhook%20%C2%BB.)
 
 4/Donnez un nombre d'items voulue 
 
